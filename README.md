@@ -8,7 +8,7 @@ Deep learning model for multi-class classification of thoracic diseases from che
 
 **Course:** Deep Learning & Generative AI (DL-GenAI) &nbsp;|&nbsp; **Institution:** IIT Madras
 
-[![Kaggle Competition](https://img.shields.io/badge/Kaggle-Competition-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/26-t-1-dl-gen-ainppe-1)
+[![Kaggle Competition](https://img.shields.io/badge/Kaggle-Competition-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/parkhiyadav/chest-xray-pathology-classification)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.10-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![GPU](https://img.shields.io/badge/GPU-Tesla%20T4-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com)
